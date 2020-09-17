@@ -11,3 +11,12 @@
 	justify-content: space-between;
 	align-items: flex-start;
 }
+.line__footer{
+	align-items: center;
+}
+.line__item{
+	width: 170px;
+}
+.line__btn{
+	height: 50px;
+}
